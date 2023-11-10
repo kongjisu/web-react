@@ -15,4 +15,4 @@
   todos 배열을 props로 받아 온 후, 이를 배열 내장 함수 map을 사용해 여러개의 TodoListItem컴포넌트로 변환 하여 보여줍니다.
 
 
-## 구현 이유 : react의 컴포넌트, props, 이벤트 핸들링을 하기 위해서 구현한 TODOLIST 입니다.
+### 구현 이유 : react의 컴포넌트, props, 이벤트 핸들링을 하기 위해서 구현한 TODOLIST 입니다.
